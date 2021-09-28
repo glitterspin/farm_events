@@ -37,7 +37,7 @@ export default function Home() {
             className="card"
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover and deploy boilerplate example Next.js projects. This sounds useful for sure.</p>
           </a>
 
           <a
@@ -46,7 +46,7 @@ export default function Home() {
           >
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Instantly deploy your Next.js site to a public URL with Vercel. What is Vercel? Something to google!
             </p>
           </a>
         </div>
