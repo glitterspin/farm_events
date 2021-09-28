@@ -4,6 +4,6 @@ export default function DoesItWork() {
         <p> Does this work? Yay it works so far!
             Lorem ipsum 
         blah blah blah I sure am super profesional,
-        please give me a job.</p>
+        I would be a great asset to your workplace.</p>
     </>
 }
