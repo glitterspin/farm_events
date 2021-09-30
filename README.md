@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn). I appear to have double-nested my folder structure on my laptop, so I'm trying to decide whether to roll them back or do what I can in the new messy structure, or fix the structure and force commit, or some other thing.
+This is a starter template for [Learn Next.js](https://nextjs.org/learn). 
+
+Still trying to fix the folder structure; right now, it seems like the project has an unnecessary top folder. I'm not sure how to fix that.
